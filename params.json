@@ -1,0 +1,6 @@
+{
+  "name": "Headerviewexample",
+  "tagline": "A Recycler View Example to show header on top.",
+  "body": "# HeaderViewExample\r\nA Recycler View Example to show header on top.\r\nComplete Tutorial is here : http://www.debugandroid.com/2016/09/how-to-add-header-in-recyclerview.html\r\n\r\n![Example Screen Shots](http://4.bp.blogspot.com/-o09yzm-tJRs/V-FzuSBXHDI/AAAAAAAAA8E/NIxEL37dO4gRSxnmEV91MSlKLMwgXr8XACK4B/s1600/screenshots.PNG)",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
